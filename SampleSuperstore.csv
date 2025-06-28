@@ -1,0 +1,66 @@
+Ship,Mode,Segment,Country,City,State,Postal,Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+Second,Class,Consumer,United,States,Henderson,Kentucky,42420,South,Furniture,Bookcases,261.96,2,0,41.9136
+Second,Class,Consumer,United,States,Henderson,Kentucky,42420,South,Furniture,Chairs,731.94,3,0,219.582
+Second,Class,Corporate,United,States,Los Angeles,California,90032,West,Office,Labels,14.62,14.62,2,
+Standard,Class,Consumer,United,States,Fort Lauderdale,Florida,33311,South,Furniture,Tables,957.5775,,5,0.45
+Standard,Class,Consumer,United,States,Fort Lauderdale,Florida,33311,South,Office,Storage,22.368,2,,
+Standard,Class,Consumer,United,States,Los Angeles,California,90032,West,Furniture,Furnishings,48.86,,7,0
+Standard,Class,Consumer,United,States,Los Angeles,California,90032,West,Office,Art,7.28,4,,
+Standard,Class,Consumer,United,States,Los Angeles,California,90032,West,Technology,Phones,907.152,,6,0.2
+Standard,Class,Consumer,United,States,Los Angeles,California,90032,West,Office,Binders,18.504,3,,
+Standard,Class,Consumer,United,States,Los Angeles,California,90032,West,Office,Appliances,114.9,5,,
+Standard,Class,Consumer,United,States,Los Angeles,California,90032,West,Furniture,Tables,1706.184,9,0.2,
+Standard,Class,Consumer,United,States,Los Angeles,California,90032,West,Technology,Phones,911.424,4,0.2,
+Standard,Class,Consumer,United,States,Concord,Carolina,28027,South,Office,Supplies,15.552,3,,
+Standard,Class,Consumer,United,States,Seattle,Washington,98103,West,Office,Supplies,407.976,3,0.2,
+Standard,Class,Office,United,States,Fort,Texas,76106,Central,Office,Supplies,68.81,1,,
+Standard,Class,Office,United,States,Fort,Texas,76106,Central,Office,Supplies,2.544,1,,
+Standard,Class,Consumer,United,States,Madison,Wisconsin,53711,Central,Office,Storage,665.88,6,,
+Second,Class,Consumer,United,States,Jordan,Utah,84084,West,Office,Supplies,55.5,2,,
+Second,Class,Consumer,United,States,San Fransisco,California,94109,West,Office,Supplies,8.56,2,,
+Second,Class,Consumer,United,States,San Fransisco,California,94109,West,Office,Phones,213.48,3,0.2,
+Second,Class,Consumer,United,States,San Fransisco,California,94109,West,Office,Supplies,22.72,4,,
+Standard,Class,Corporate,United,States,Fremont,Nebraska,68025,Central,Office,Art,19.46,7,7,0
+Standard,Class,Corporate,United,States,Fremont,Nebraska,68025,Central,Office,Appliances,60.34,7,7,0
+Second,Class,Consumer,United,States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,2,,0.3,-1.0196
+Standard,Class,Consumer,United,States,Orem,Utah,84057,West,Furniture,Tables,3,,0,240.2649
+Second,Class,Consumer,United,States,Los Angeles,California,90049,West,Office,Supplies,11.648,2,,
+Second,Class,Consumer,United,States,Los Angeles,California,90049,West,Technology,Accessories,90.57,3,3,0
+Standard,Class,Consumer,United,States,Philadelphia,Pennsylvania,19140,East,Furniture,Bookcases,7,,0.5,-1665.0522
+Standard,Class,Consumer,United,States,Philadelphia,Pennsylvania,19140,East,Office,Binders,9.618,2,2,0.7
+Standard,Class,Consumer,United,States,Philadelphia,Pennsylvania,19140,East,Furniture,Envelopes,3,,0.2,15.525
+Standard,Class,Consumer,United,States,Philadelphia,Pennsylvania,19140,East,Office,Art,3.264,2,2,0.2
+Standard,Class,Consumer,United,States,Philadelphia,Pennsylvania,19140,East,Office,Binders,86.304,6,6,0.2
+Standard,Class,Consumer,United,States,Philadelphia,Pennsylvania,19140,East,Office,Art,6.858,6,6,0.7
+Standard,Class,Consumer,United,States,Philadelphia,Pennsylvania,19140,East,Office,Paper,15.76,2,2,0.2
+Second,Class,Home,United,States,Houston,Texas,77095,Central,Office,Supplies,29.472,3,3,
+First,Class,Corporate,United,States,Richardson,Texas,75080,Central,Technology,Phones,1097.544,7,0.2,123.4737
+First,Class,Corporate,United,States,Richardson,Texas,75080,Central,Furniture,Furnishings,190.92,5,0.6,-147.963
+Standard,Class,Home,United,States,Houston,Texas,77041,Central,Office,Envelopes,113.328,9,,
+Standard,Class,Home,United,States,Houston,Texas,77041,Central,Furniture,Bookcases,532.3992,3,,0.32
+Standard,Class,Home,United,States,Houston,Texas,77041,Central,Furniture,Chairs,212.058,3,,0.3
+Standard,Class,Home,United,States,Houston,Texas,77041,Central,Technology,Phones,371.168,4,,0.2
+Standard,Class,Corporate,United,States,Naperville,Illinois,60540,Central,Technology,Phones,147.168,4,0.2,16.5564
+Standard,Class,Corporate,United,States,Los Angeles,California,90049,West,Office,Supplies,77.88,2,,
+Standard,Class,Corporate,United,States,Melbourne,Florida,32935,South,Office,Supplies,95.616,2,0.2,
+First,Class,Corporate,United,States,Eagan,Minnesota,55122,Central,Technology,Accessories,45.98,2,0,19.7714
+First,Class,Corporate,United,States,Minnesota,Minnesota,55122,Central,Office,Supplies,17.46,2,0,
+Second,Class,Consumer,United,States,Michigan,Michigan,48185,Central,Office,Supplies,211.96,4,0,
+Standard,Class,Consumer,United,States,Dover,Delaware,19901,East,Technology,Accessories,45,3,0,4.95
+Standard,Class,Consumer,United,States,Dover,Delaware,19901,East,Technology,Phones,21.8,2,0,6.104
+Standard,Class,Consumer,United,States,New Albany,Indiana,47150,Central,Office,Supplies,38.22,6,6,
+Standard,Class,Consumer,United,States,New Albany,Indiana,47150,Central,Office,Supplies,75.18,6,6,
+Standard,Class,Consumer,United,States,New Albany,Indiana,47150,Central,Furniture,Furnishings,6.16,2,0,
+Standard,Class,Consumer,United,States,New Albany,Indiana,47150,Central,Furniture,Chairs,89.999,1,0,
+Standard,Class,Consumer,United,States,Seattle,Washington,98103,West,Furniture,Tables,787.53,3,0,165.3813
+First,Class,Consumer,United,States,Wilmington,Delaware,19805,East,Furniture,Furnishings,47.04,3,0,18.3456
+First,Class,Consumer,United,States,Wilmington,Delaware,19805,East,Technology,Phones,68.04,7,0,19.7316
+Standard,Class,Consumer,United,States,Bloomington,Illinois,61701,Central,Furniture,Tables,617.7,6,0.5,-407.682
+Standard,Class,Consumer,United,States,Memphis,Tennessee,38109,South,Furniture,Chairs,831.936,8,0.2,-114.3912
+Standard,Class,Consumer,United,States,Memphis,Tennessee,38109,South,Furniture,Furnishings,97.04,2,0.2,1.213
+First,Class,Corporate,United,States,Houston,Texas,77041,Central,Furniture,Furnishings,9.708,3,0.6,-5.8248
+Second,Class,Consumer,United,States,Houston,Texas,77070,Central,Furniture,Furnishings,19.3,5,0.6,-14.475
+Standard,Class,Consumer,United,States,Rochester,Minnesota,55901,Central,Technology,Accessories,19.99,1,0,6.7966
+Second,Class,Consumer,United,States,Minneapolis,Minnesota,55407,Central,Furniture,Furnishings,53.34,3,0,16.5354
+Standard,Class,Consumer,United,States,Aurora,Colorado,80013,West,Technology,Accessories,238.896,6,0.2,-26.8758
+Standard,Class,Consumer,United,States,Aurora,Colorado,80013,West,Furniture,Furnishings,102.36,3,0.2,-3.8385
